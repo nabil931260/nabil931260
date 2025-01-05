@@ -26,8 +26,7 @@ I'm a passionate Computer Science student at the University of Texas at Dallas, 
 ### 🚀 Featured Projects
 
 - **AIM – SugarSense**: Diabetes Prediction Model using Random Forest (Accuracy: 0.81)
-- **PhotoFrontier**: Multi-page website for photographer discovery with Firebase integration
-- **Interlect**: Skill Trading Platform with advanced matchmaking algorithm
+- **EasyTeller**: Web application designed to assist with credit and loan applications for customers with a lack of reportable credit history
 - **KickMap**: Campus Event Manager with interactive maps and secure user authentication
 
 ### 🌟 Highlights
