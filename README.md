@@ -1,8 +1,6 @@
-# Hi there, I'm Nabil Fadili 👋
+## Computer Science Student
 
-## Computer Science Student | Full Stack Developer | Machine Learning Enthusiast
-
-I'm a passionate Computer Science student at the University of Texas at Dallas, expected to graduate in December 2025. I love building innovative solutions and exploring new technologies.
+I'm a passionate Computer Science student at the University of Texas at Dallas, expected to graduate in May 2026.
 
 ### 🛠️ Technologies & Tools
 
@@ -29,16 +27,10 @@ I'm a passionate Computer Science student at the University of Texas at Dallas, 
 - **EasyTeller**: Web application designed to assist with credit and loan applications for customers with a lack of reportable credit history
 - **KickMap**: Campus Event Manager with interactive maps and secure user authentication
 
-### 🌟 Highlights
-
-- 🏢 Amazon Project Intern (Summer 2023 & 2024)
-- 🏆 Led development of web app, boosting operational efficiency by 15%
-- 👥 Experienced in team leadership and project management
-- 🧠 Strong background in data structures, algorithms, and software engineering
+- Experienced in team leadership and project management
+- Strong background in data structures, algorithms, and software engineering
 
 ### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabil-fadili-ab2a29254)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nabil931260@gmail.com)
-
-Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions!
