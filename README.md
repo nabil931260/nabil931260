@@ -1,6 +1,6 @@
 ## Computer Science Student
 
-I'm a passionate Computer Science student at the University of Texas at Dallas, expected to graduate in May 2026.
+I'm a passionate Computer Science student at the University of Texas at Dallas, expected to graduate in December 2026.
 
 ### 🛠️ Technologies & Tools
 
